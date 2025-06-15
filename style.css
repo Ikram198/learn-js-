@@ -2,3 +2,6 @@ body{
     color: rgb(233, 224, 224);
     background-color: rgb(17, 29, 17);
 }
+button{
+    color: red;
+}
